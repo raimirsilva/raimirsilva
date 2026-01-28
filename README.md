@@ -95,7 +95,7 @@ Python                   1 repo              ████████░░░�
 
 ## 📂 Featured Projects
 
-- 🎮 **[Ice Game Sales Analysis](https://github.com/raimirsilva/Ice-games-sales)** — EDA, hypothesis testing, and regional segmentation for video game market trends
+- 🎮 **[Ice Game Sales Analysis](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, hypothesis testing, and regional segmentation for video game market trends
 - 🚗 **[Vehicle Sales in the US](https://github.com/raimirsilva/Vehicle-sales-in-the-US)** — Exploratory data analysis of automotive sales patterns and market insights
 
 *Portfolio under construction*
@@ -174,7 +174,7 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 
 ## 📂 Projetos em Destaque
 
-- 🎮 **[Análise de Vendas de Videogames](https://github.com/raimirsilva/Ice-games-sales)** — EDA, testes de hipóteses e segmentação regional para identificação de tendências do mercado de jogos
+- 🎮 **[Análise de Vendas de Videogames](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, testes de hipóteses e segmentação regional para identificação de tendências do mercado de jogos
 - 🚗 **[Vendas de Veículos nos EUA](https://github.com/raimirsilva/Vehicle-sales-in-the-US)** — Análise exploratória de padrões de vendas automotivas e insights de mercado
 
 *Portfólio em construção*
