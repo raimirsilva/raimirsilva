@@ -75,8 +75,6 @@ Seeking opportunities where data analysis is used as **strategic support for dec
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimirsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raimirsilva&layout=compact&theme=dark&langs_count=8)
 
 ---
@@ -151,14 +149,6 @@ Busco oportunidades onde a análise de dados seja utilizada como **suporte estra
 📍 **Localização:** Minas Gerais, Brasil  
 🌐 **Idiomas:** Português (nativo) | English (fluente)  
 🔍 **Status:** Aberto a oportunidades em Análise de Dados
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimirsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raimirsilva&layout=compact&theme=dark&langs_count=8)
 
 ---
 
