@@ -1,4 +1,4 @@
-# Hello! I'm Raimir
+# Greetings! I'm Raimir
 
 **Data Analyst**
 
