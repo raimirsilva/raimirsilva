@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About me
 
 Career transition professional moving into **Data Analytics**, focusing on practical projects and applying data-driven insights to support decision-making. I develop technical competencies in **Python**, **SQL**, **Excel**, and data visualisation tools, applying this knowledge in exploratory data analysis (EDA), data cleaning and treatment, indicator analysis, and building interactive dashboards for strategic metrics monitoring.
 
@@ -14,7 +14,7 @@ My previous professional background has contributed to developing transferable s
 
 ## 🎓 Education
 
-**Data Analyst Bootcamp — TripleTen**  
+**Data Analyst — TripleTen**  
 
 ---
 
@@ -90,7 +90,7 @@ Seeking opportunities where data analysis is used as **strategic support for dec
 
 ---
 
-## 🎯 Sobre Mim
+## 🎯 Sobre mim
 
 Profissional em transição de carreira para **Análise de Dados**, com foco em projetos práticos e aplicação de insights orientados por dados no apoio à tomada de decisões. Desenvolvo competências técnicas em **Python**, **SQL**, **Excel** e ferramentas de visualização de dados, aplicando esses conhecimentos em análise exploratória de dados (EDA), limpeza e tratamento de bases, análise de indicadores e construção de dashboards interativos para acompanhamento de métricas estratégicas.
 
@@ -100,7 +100,7 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 
 ## 🎓 Formação
 
-**Bootcamp Analista de Dados — TripleTen**  
+**Analista de Dados — TripleTen**  
 
 ---
 
