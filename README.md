@@ -38,6 +38,57 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2013%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.33%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+🌆 Daytime                23 commits          █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌃 Evening                22 commits          █████████░░░░░░░░░░░░░░░░   36.07 % 
+🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Tuesday                  11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Wednesday                13 commits          █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Saturday                 11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Sunday                   16 commits          ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Jupyterlab               0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         2 repos             █████████████████░░░░░░░░   66.67 % 
+Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+
+ Last Updated on 28/01/2026 14:33:58 UTC
 <!--END_SECTION:waka-->
 
 ---
