@@ -38,28 +38,28 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌆 Daytime                34 commits          ███████████░░░░░░░░░░░░░░   43.04 % 
-🌃 Evening                24 commits          ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌙 Night                  9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+🌞 Morning                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+🌆 Daytime                34 commits          ██████████░░░░░░░░░░░░░░░   40.96 % 
+🌃 Evening                25 commits          ████████░░░░░░░░░░░░░░░░░   30.12 % 
+🌙 Night                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Wednesday                20 commits          ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Saturday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Sunday                   16 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Monday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Wednesday                20 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Saturday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Sunday                   18 commits          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 ```
 
 
@@ -69,20 +69,20 @@ Sunday                   16 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   12 hrs 6 mins       ███████████████████████░░   93.93 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   19 hrs 55 mins      ███████████████████████░░   90.03 % 
+Other                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Safari                   8 hrs 7 mins        ████████████████░░░░░░░░░   62.99 % 
-VS Code                  3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Jupyterlab               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Notes                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Discord                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  10 hrs 19 mins      ████████████░░░░░░░░░░░░░   46.63 % 
+Safari                   10 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.23 % 
+Jupyterlab               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Notes                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Zoom                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 Operating System: 
-Mac                      12 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -95,7 +95,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 31/01/2026 04:48:35 UTC
+ Last Updated on 01/02/2026 05:17:36 UTC
 <!--END_SECTION:waka-->
 
 ---
