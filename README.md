@@ -38,7 +38,7 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -69,21 +69,21 @@ Sunday                   23 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   39 hrs 2 mins       █████████████████████░░░░   82.92 % 
-Other                    7 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   36 hrs 55 mins      █████████████████████░░░░   82.33 % 
+Other                    7 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 5 mins       █████████████░░░░░░░░░░░░   53.28 % 
-Safari                   17 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   36.60 % 
-Jupyterlab               2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Zoom                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Notes                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+VS Code                  24 hrs 29 mins      ██████████████░░░░░░░░░░░   54.61 % 
+Safari                   15 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   35.40 % 
+Zoom                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Jupyterlab               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Notes                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Mac                      47 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      44 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -96,7 +96,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 04/02/2026 09:09:58 UTC
+ Last Updated on 05/02/2026 09:30:20 UTC
 <!--END_SECTION:waka-->
 
 ---
