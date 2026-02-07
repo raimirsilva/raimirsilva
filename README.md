@@ -133,7 +133,7 @@ Seeking opportunities where data analysis is used as **strategic support for dec
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raimirsilva&layout=compact&theme=dark&langs_count=8)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
