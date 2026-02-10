@@ -38,7 +38,7 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -67,18 +67,17 @@ Sunday                   23 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   26 hrs 15 mins      ████████████████░░░░░░░░░   65.51 % 
-Other                    13 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   34.49 % 
+Python                   20 hrs 5 mins       █████████████░░░░░░░░░░░░   50.05 % 
+Other                    20 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.95 % 
 
 🔥 Editors: 
-Safari                   34 hrs 26 mins      █████████████████████░░░░   85.94 % 
-VS Code                  3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Safari                   37 hrs 9 mins       ███████████████████████░░   92.56 % 
 Zoom                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Jupyterlab               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Notes                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Notes                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Discord                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      40 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      40 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -91,7 +90,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 09/02/2026 07:59:47 UTC
+ Last Updated on 10/02/2026 08:00:46 UTC
 <!--END_SECTION:waka-->
 
 ---
