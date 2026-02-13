@@ -38,7 +38,7 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -67,17 +67,17 @@ Sunday                   23 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 52 mins      ███████████████░░░░░░░░░░   61.32 % 
-Python                   19 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   38.68 % 
+Other                    30 hrs 43 mins      ██████████████████░░░░░░░   70.86 % 
+Python                   12 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   29.14 % 
 
 🔥 Editors: 
-Safari                   48 hrs 56 mins      ████████████████████████░   97.17 % 
-Notes                    1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Zoom                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Safari                   41 hrs 56 mins      ████████████████████████░   96.74 % 
+Notes                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Zoom                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      50 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -90,7 +90,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 12/02/2026 07:55:30 UTC
+ Last Updated on 13/02/2026 07:53:13 UTC
 <!--END_SECTION:waka-->
 
 ---
