@@ -67,18 +67,18 @@ Sunday                   23 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 12 mins      ████████████████░░░░░░░░░   62.32 % 
-Python                   14 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   37.68 % 
+Python                   14 hrs 2 mins       █████████████░░░░░░░░░░░░   51.23 % 
+Other                    13 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.77 % 
 
 🔥 Editors: 
-Safari                   35 hrs 54 mins      ████████████████████████░   96.40 % 
-Notes                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Zoom                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Safari                   26 hrs 53 mins      █████████████████████████   98.15 % 
+Zoom                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Notes                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      37 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -91,7 +91,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 16/02/2026 07:57:01 UTC
+ Last Updated on 17/02/2026 07:53:15 UTC
 <!--END_SECTION:waka-->
 
 ---
