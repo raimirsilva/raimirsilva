@@ -45,21 +45,21 @@ My previous professional background has contributed to developing transferable s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-🌆 Daytime                40 commits          ██████████░░░░░░░░░░░░░░░   41.24 % 
-🌃 Evening                28 commits          ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-🌙 Night                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+🌞 Morning                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌆 Daytime                40 commits          ██████████░░░░░░░░░░░░░░░   40.82 % 
+🌃 Evening                28 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌙 Night                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Wednesday                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Saturday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   23 commits          ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Tuesday                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Wednesday                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Saturday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Sunday                   23 commits          ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
 ```
 
 
@@ -67,18 +67,17 @@ Sunday                   23 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 2 mins       █████████████░░░░░░░░░░░░   51.23 % 
-Other                    13 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.77 % 
+Python                   15 hrs 56 mins      █████████████████░░░░░░░░   66.03 % 
+Other                    8 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
 
 🔥 Editors: 
-Safari                   26 hrs 53 mins      █████████████████████████   98.15 % 
-Zoom                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Notes                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Safari                   23 hrs 45 mins      █████████████████████████   98.42 % 
+Jupyterlab               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Notes                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      27 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -91,7 +90,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 17/02/2026 07:53:15 UTC
+ Last Updated on 18/02/2026 07:54:03 UTC
 <!--END_SECTION:waka-->
 
 ---
