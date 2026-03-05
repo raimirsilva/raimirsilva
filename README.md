@@ -38,28 +38,28 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.90%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.64%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-🌆 Daytime                40 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌃 Evening                30 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
-🌙 Night                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+🌆 Daytime                40 commits          █████████░░░░░░░░░░░░░░░░   37.38 % 
+🌃 Evening                30 commits          ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌙 Night                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Tuesday                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Wednesday                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Saturday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Sunday                   23 commits          ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                20 commits          █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Saturday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Sunday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
 ```
 
 
@@ -67,31 +67,31 @@ Sunday                   23 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 58 mins      █████████████████████░░░░   84.81 % 
-Other                    2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Python                   19 hrs 10 mins      ██████████████████████░░░   86.76 % 
+Other                    2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 
 🔥 Editors: 
-Safari                   15 hrs 20 mins      ██████████████████████░░░   86.90 % 
-Zoom                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Notes                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Discord                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Terminal                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Safari                   15 hrs 39 mins      ██████████████████░░░░░░░   70.82 % 
+VS Code                  4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Zoom                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Notes                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Discord                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      17 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         2 repos             █████████████████░░░░░░░░   66.67 % 
-Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jupyter Notebook         3 repos             ███████████████████░░░░░░   75.00 % 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
 
 
- Last Updated on 04/03/2026 07:40:52 UTC
+ Last Updated on 05/03/2026 07:45:42 UTC
 <!--END_SECTION:waka-->
 
 ---
