@@ -38,28 +38,28 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-986.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-988.02%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                30 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌙 Night                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌞 Morning                23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+🌆 Daytime                43 commits          █████████░░░░░░░░░░░░░░░░   34.96 % 
+🌃 Evening                30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+🌙 Night                  27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Sunday                   23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 ```
 
 
@@ -67,21 +67,21 @@ Sunday                   23 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 43 mins       ███████████████░░░░░░░░░░   60.55 % 
-Other                    3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-CSV                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python                   4 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.01 % 
+Other                    2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+INI                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+CSV                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-Safari                   5 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.85 % 
-VS Code                  3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
-Zoom                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Notes                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Discord                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Safari                   5 hrs 49 mins       ████████████████░░░░░░░░░   64.29 % 
+Zoom                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Notes                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+GitHubDesktop            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Mac                      11 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -94,7 +94,7 @@ Python                   1 repo              ██████░░░░░�
 
 
 
- Last Updated on 13/03/2026 07:48:25 UTC
+ Last Updated on 14/03/2026 07:39:07 UTC
 <!--END_SECTION:waka-->
 
 ---
