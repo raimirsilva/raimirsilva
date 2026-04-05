@@ -38,28 +38,28 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-🌆 Daytime                64 commits          ██████████░░░░░░░░░░░░░░░   39.26 % 
-🌃 Evening                40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-🌙 Night                  29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌞 Morning                30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌆 Daytime                66 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌃 Evening                40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌙 Night                  29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Tuesday                  25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Wednesday                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Sunday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Sunday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 ```
 
 
@@ -67,18 +67,18 @@ Sunday                   35 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 58 mins      ████████████████████████░   95.30 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Python                   17 hrs 39 mins      ████████████████████████░   95.73 % 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-Safari                   13 hrs 36 mins      ████████████████████░░░░░   81.16 % 
-VS Code                  2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-GitHubDesktop            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Terminal                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Safari                   14 hrs 12 mins      ███████████████████░░░░░░   76.97 % 
+VS Code                  4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+GitHubDesktop            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Terminal                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      16 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -91,7 +91,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 04/04/2026 07:50:16 UTC
+ Last Updated on 05/04/2026 07:56:41 UTC
 <!--END_SECTION:waka-->
 
 ---
