@@ -38,7 +38,7 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,17 +67,18 @@ Sunday                   37 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 56 mins      ███████████████████████░░   90.74 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Python                   11 hrs 57 mins      ███████████████████████░░   93.58 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 Editors: 
-Safari                   10 hrs 56 mins      ███████████████████████░░   90.74 % 
-Notes                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Zoom                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Discord                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Safari                   11 hrs 57 mins      ███████████████████████░░   93.58 % 
+Zoom                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Discord                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      12 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -90,7 +91,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 15/04/2026 08:46:44 UTC
+ Last Updated on 16/04/2026 08:47:40 UTC
 <!--END_SECTION:waka-->
 
 ---
