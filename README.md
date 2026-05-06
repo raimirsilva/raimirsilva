@@ -67,17 +67,16 @@ Sunday                   37 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 32 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 5 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Discord                  1 hr 37 mins        ███████████░░░░░░░░░░░░░░   45.64 % 
-Zoom                     1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   38.67 % 
-Notes                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Terminal                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Discord                  1 hr 38 mins        █████████████░░░░░░░░░░░░   53.28 % 
+Zoom                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Notes                    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Terminal                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -90,7 +89,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 05/05/2026 09:09:59 UTC
+ Last Updated on 06/05/2026 09:27:38 UTC
 <!--END_SECTION:waka-->
 
 ---
