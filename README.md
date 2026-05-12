@@ -102,7 +102,7 @@ Python                   1 repo              █████░░░░░░�
 ## 📂 Featured Projects
 
 - 🎮 **[Ice Game Sales Analysis](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, hypothesis testing, and regional segmentation for video game market trends
-- 🚗 **[Vehicle Sales in the US](https://github.com/raimirsilva/Vehicle-sales-in-the-US)** — Exploratory data analysis of automotive sales patterns and market insights
+- 📱 **[Food App — Funnel Analysis and A/B Testing](https://github.com/raimirsilva/food-app-analysis)** — Funnel analysis and A/B testing on a delivery app
 
 *Portfolio under construction*
 
@@ -181,7 +181,7 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 ## 📂 Projetos em Destaque
 
 - 🎮 **[Análise de Vendas de Videogames](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, testes de hipóteses e segmentação regional para identificação de tendências do mercado de jogos
-- 🚗 **[Vendas de Veículos nos EUA](https://github.com/raimirsilva/Vehicle-sales-in-the-US)** — Análise exploratória de padrões de vendas automotivas e insights de mercado
+- 📱 **[Food App — Análise de Funil e Teste A/B](https://github.com/raimirsilva/food-app-analysis)** — Análise de funil de conversão e Teste A/B em App de Delivery
 
 *Portfólio em construção*
 
