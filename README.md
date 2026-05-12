@@ -103,9 +103,9 @@ Python                   1 repo              █████░░░░░░�
 
 - 🎮 **[Ice Game Sales Analysis](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, hypothesis testing, and regional segmentation for video game market trends
 - 📱 **[Food App — Funnel Analysis and A/B Testing](https://github.com/raimirsilva/food-app-analysis)** — Funnel analysis and A/B testing on a delivery app
-- 🧪 **[A/B Test Analysis — E-commerce](https://github.com/raimirsilva/Sprint-9-project)** — Hypothesis prioritization and statistical analysis of an A/B test
-- 🏋️ **[Gym Churn Prediction](https://github.com/raimirsilva/Sprint-13-project)** — Customer churn prediction in fitness centers with Machine Learning
-- 📊 **[Business Analysis](https://github.com/raimirsilva/Sprint-8-project)** — User behavior analysis, LTV, CAC, and ROI by marketing channel
+- 🧪 **[A/B Test Analysis — E-commerce](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-9-project)** — Hypothesis prioritization and statistical analysis of an A/B test
+- 🏋️ **[Gym Churn Prediction](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-13-project)** — Customer churn prediction in fitness centers with Machine Learning
+- 📊 **[Business Analysis](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-8-project)** — User behavior analysis, LTV, CAC, and ROI by marketing channel
   
 *Portfolio under construction*
 
@@ -185,9 +185,9 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 
 - 🎮 **[Análise de Vendas de Videogames](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, testes de hipóteses e segmentação regional para identificação de tendências do mercado de jogos
 - 📱 **[Food App — Análise de Funil e Teste A/B](https://github.com/raimirsilva/food-app-analysis)** — Análise de funil de conversão e Teste A/B em App de Delivery
-- 🧪 **[A/B Test Analysis — E-commerce](https://github.com/raimirsilva/Sprint-9-project)** — Priorização de hipóteses e análise estatística de Teste A/B
-- 🏋️ **[Gym Churn Prediction](https://github.com/raimirsilva/Sprint-13-project)** — Previsão de rotatividade de clientes em academia com Machine Learning
-📊 **[Análise de Negócio](https://github.com/raimirsilva/Sprint-8-project)** — Análise de comportamento de usuários, LTV, CAC e ROI por canal de marketing
+- 🧪 **[A/B Test Analysis — E-commerce](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-9-project)** — Priorização de hipóteses e análise estatística de Teste A/B
+- 🏋️ **[Gym Churn Prediction](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-13-project)** — Previsão de rotatividade de clientes em academia com Machine Learning
+📊 **[Análise de Negócio](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-8-project)** — Análise de comportamento de usuários, LTV, CAC e ROI por canal de marketing
 
 *Portfólio em construção*
 
