@@ -187,7 +187,7 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 - 📱 **[Food App — Análise de Funil e Teste A/B](https://github.com/raimirsilva/food-app-analysis)** — Análise de funil de conversão e Teste A/B em App de Delivery
 - 🧪 **[A/B Test Analysis — E-commerce](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-9-project)** — Priorização de hipóteses e análise estatística de Teste A/B
 - 🏋️ **[Gym Churn Prediction](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-13-project)** — Previsão de rotatividade de clientes em academia com Machine Learning
-📊 **[Análise de Negócio](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-8-project)** — Análise de comportamento de usuários, LTV, CAC e ROI por canal de marketing
+- 📊 **[Análise de Negócio](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-8-project)** — Análise de comportamento de usuários, LTV, CAC e ROI por canal de marketing
 
 *Portfólio em construção*
 
