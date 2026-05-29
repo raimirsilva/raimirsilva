@@ -166,7 +166,7 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 
 | Certificação | Emissor | Emissão | Válida até |
 |---|---|---|---|
-| [CC — Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Mai 2026 | Mai 2029 |
+| [CC — Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | mai 2026 | mai 2029 |
 
 ---
 
