@@ -11,6 +11,11 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
+      - name: Configure git
+        run: |
+          git config --global user.email "253516877+raimirsilva@users.noreply.github.com"
+          git config --global user.name "Raimir Silva"
+          
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -31,6 +36,6 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: raimirsilva=${{ github.repository_owner }}&layout=compact&theme=dark&langs_count=8
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}    
