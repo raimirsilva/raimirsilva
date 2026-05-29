@@ -38,63 +38,19 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2018%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.26%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-🌆 Daytime                68 commits          █████████░░░░░░░░░░░░░░░░   35.42 % 
-🌃 Evening                47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-🌙 Night                  38 commits          █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Tuesday                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 24 mins       ██████████████░░░░░░░░░░░   56.52 % 
-Other                    2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-Safari                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   32.16 % 
-VS Code                  1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-Zoom                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Discord                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Notes                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-
-💻 Operating System: 
-Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         4 repos             ████████████████████░░░░░   80.00 % 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         5 repos             ██████████████████░░░░░░░   71.43 % 
+Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 ```
 
 
 
 
- Last Updated on 12/05/2026 08:01:00 UTC
+ Last Updated on 29/05/2026 00:36:53 UTC
 <!--END_SECTION:waka-->
 
 ---
