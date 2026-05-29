@@ -132,12 +132,6 @@ Seeking opportunities where data analysis is used as **strategic support for dec
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimirsilva&show_icons=true&theme=dark)](https://github.com/raimirsilva)
-
----
-
 *"Transforming data into strategic decisions | Data-Driven Decision Making 📊"*
 
 ---
