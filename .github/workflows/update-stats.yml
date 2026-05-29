@@ -36,6 +36,6 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: raimirsilva=${{ github.repository_owner }}&layout=compact&theme=dark&langs_count=8
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}    
