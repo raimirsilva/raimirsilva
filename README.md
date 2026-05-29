@@ -18,6 +18,14 @@ My previous professional background has contributed to developing transferable s
 
 ---
 
+## 🏅 Certifications
+
+| Certification | Issuer | Issued | Valid Until |
+|---|---|---|---|
+| [CC — Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | May 2026 | May 2029 |
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,28 +46,28 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.26%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-🌆 Daytime                101 commits         ███████████░░░░░░░░░░░░░░   42.44 % 
-🌃 Evening                59 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌙 Night                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+🌞 Morning                39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌆 Daytime                68 commits          █████████░░░░░░░░░░░░░░░░   35.42 % 
+🌃 Evening                47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+🌙 Night                  38 commits          █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   38 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Tuesday                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Wednesday                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Thursday                 35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Friday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Saturday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Sunday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Monday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Tuesday                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Thursday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Sunday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
 ```
 
 
@@ -67,33 +75,34 @@ Sunday                   48 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   13 hrs 51 mins      █████████████████░░░░░░░░   67.60 % 
-Other                    5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python                   3 hrs 24 mins       ██████████████░░░░░░░░░░░   56.52 % 
+Other                    2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Safari                   13 hrs 37 mins      █████████████████░░░░░░░░   66.39 % 
-VS Code                  4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Discord                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Notes                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Zoom                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Safari                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   32.16 % 
+VS Code                  1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Zoom                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Discord                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Notes                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 💻 Operating System: 
-Mac                      20 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         5 repos             ██████████████████░░░░░░░   71.43 % 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Jupyter Notebook         4 repos             ████████████████████░░░░░   80.00 % 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 00:43:07 UTC
+ Last Updated on 12/05/2026 08:01:00 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -112,11 +121,7 @@ Python                   2 repos             ███████░░░░�
 
 ## 🎯 Professional Goals
 
-Seeking opportunities where data analysis is used as **strategic support for decision-making**, **process improvement**, **business insights generation**, and **value creation**. Particular interest in:
-
-- Exploratory and predictive data analysis
-- Business Intelligence and data visualisation
-- Analytical process automation
+I am interested in opportunities in Data Analytics covering the full analytical cycle: from data collection, cleaning, and processing through exploratory analysis, indicator building, strategic insight generation, and development of interactive dashboards that support decision-making, process improvement, and business value creation.
 
 ---
 
@@ -127,7 +132,7 @@ Seeking opportunities where data analysis is used as **strategic support for dec
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raimirsilva)
 
 📍 **Location:** Minas Gerais, Brazil  
-🌐 **Languages:** Portuguese (native) | English (fluent)  
+🌐 **Languages:** Portuguese (native) | English (advanced)  
 🔍 **Status:** Open to Data Analyst opportunities
 
 ---
@@ -145,7 +150,7 @@ Seeking opportunities where data analysis is used as **strategic support for dec
 
 ## 🎯 Sobre mim
 
-Profissional em transição de carreira para **Análise de Dados**, com foco em projetos práticos e aplicação de insights orientados por dados no apoio à tomada de decisões. Desenvolvo competências técnicas em **Python**, **SQL**, **Excel** e ferramentas de visualização de dados, aplicando esses conhecimentos em análise exploratória de dados (EDA), limpeza e tratamento de bases, análise de indicadores e construção de dashboards interativos para acompanhamento de métricas estratégicas.
+Profissional em transição de carreira para **Análise de Dados**, com foco em projetos práticos e aplicação de insights orientados por dados no apoio à tomada de decisões. Possuo competências técnicas em **Python**, **SQL**, **Excel** e ferramentas de visualização de dados, aplicando esses conhecimentos em análise exploratória de dados (EDA), limpeza e tratamento de bases, análise de indicadores e construção de dashboards interativos para acompanhamento de métricas estratégicas.
 
 Minha trajetória profissional anterior consolidou habilidades transferíveis fundamentais para a área de dados: pensamento analítico, organização e disciplina, resolução de problemas, atenção a detalhes e comunicação clara de informações técnicas para diferentes públicos.
 
@@ -157,7 +162,15 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🏅 Certificações
+
+| Certificação | Emissor | Emissão | Válida até |
+|---|---|---|---|
+| [CC — Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Mai 2026 | Mai 2029 |
+
+---
+
+## 🛠️ Stack tecnológica
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -174,25 +187,21 @@ Minha trajetória profissional anterior consolidou habilidades transferíveis fu
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em destaque
 
-- 🎮 **[Análise de Vendas de Videogames](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, testes de hipóteses e segmentação regional para identificação de tendências do mercado de jogos
-- 📱 **[Food App — Análise de Funil e Teste A/B](https://github.com/raimirsilva/food-app-analysis)** — Análise de funil de conversão e Teste A/B em App de Delivery
+- 🎮 **[Análise de vendas de videogames](https://github.com/raimirsilva/Ice-games-sales-analysis)** — EDA, testes de hipóteses e segmentação regional para identificação de tendências do mercado de jogos
+- 📱 **[Food App — Análise de funil e teste A/B](https://github.com/raimirsilva/food-app-analysis)** — Análise de funil de conversão e Teste A/B em App de Delivery
 - 🧪 **[A/B Test Analysis — E-commerce](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-9-project)** — Priorização de hipóteses e análise estatística de Teste A/B
 - 🏋️ **[Gym Churn Prediction](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-13-project)** — Previsão de rotatividade de clientes em academia com Machine Learning
-- 📊 **[Análise de Negócio](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-8-project)** — Análise de comportamento de usuários, LTV, CAC e ROI por canal de marketing
+- 📊 **[Análise de negócio](https://github.com/raimirsilva/Small-projects/tree/602d119efdaa264c4e9892c156867d179d112382/Sprint-8-project)** — Análise de comportamento de usuários, LTV, CAC e ROI por canal de marketing
 
 *Portfólio em construção*
 
 ---
 
-## 🎯 Objetivos Profissionais
+## 🎯 Objetivos profissionais
 
-Busco oportunidades onde a análise de dados seja utilizada como **suporte estratégico à tomada de decisões**, **melhoria de processos**, **geração de business insights** e **criação de valor**. Áreas de interesse:
-
-- Análise exploratória e preditiva de dados
-- Business Intelligence e visualização de dados
-- Automação de processos analíticos
+Interesso-me por oportunidades na área de Análise de dados em todo o ciclo analítico: desde a coleta, limpeza e tratamento de dados até a análise exploratória, construção de indicadores, geração de insights estratégicos e desenvolvimento de dashboards interativos que apoiem a tomada de decisões, melhoria de processos e criação de valor para o negócio.
 
 ---
 
@@ -203,7 +212,7 @@ Busco oportunidades onde a análise de dados seja utilizada como **suporte estra
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raimirsilva)
 
 📍 **Localização:** Minas Gerais, Brasil  
-🌐 **Idiomas:** Português (nativo) | English (fluente)  
+🌐 **Idiomas:** Português (nativo) | English (avançado)  
 🔍 **Status:** Aberto a oportunidades em Análise de Dados
 
 ---
