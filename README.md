@@ -46,7 +46,7 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,20 +75,20 @@ Sunday                   48 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 43 mins      █████████████████░░░░░░░░   67.46 % 
-Other                    6 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   12 hrs 46 mins      ███████████████████░░░░░░   75.73 % 
+Other                    2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-Safari                   16 hrs 55 mins      ██████████████████░░░░░░░   72.61 % 
-VS Code                  3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Discord                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Terminal                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Notes                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Safari                   14 hrs 12 mins      █████████████████████░░░░   84.24 % 
+Discord                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Terminal                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+GitHubDesktop            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 Operating System: 
-Mac                      23 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,7 +101,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 30/05/2026 07:56:24 UTC
+ Last Updated on 31/05/2026 08:06:46 UTC
 <!--END_SECTION:waka-->
 
 ---
