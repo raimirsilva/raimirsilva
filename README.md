@@ -46,7 +46,7 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -101,7 +101,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 31/05/2026 08:06:46 UTC
+ Last Updated on 02/06/2026 08:35:53 UTC
 <!--END_SECTION:waka-->
 
 ---
