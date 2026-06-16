@@ -46,28 +46,28 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-🌆 Daytime                102 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌃 Evening                70 commits          ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-🌙 Night                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+🌆 Daytime                104 commits         ██████████░░░░░░░░░░░░░░░   40.94 % 
+🌃 Evening                71 commits          ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌙 Night                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   38 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Tuesday                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Wednesday                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Friday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Sunday                   51 commits          █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Monday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Tuesday                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Wednesday                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Friday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Sunday                   51 commits          █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
 ```
 
 
@@ -75,20 +75,18 @@ Sunday                   51 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 5 mins        ████████████████░░░░░░░░░   62.89 % 
-YAML                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Python                   4 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.53 % 
+Markdown                 4 hrs 18 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
+Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 
 🔥 Editors: 
-Safari                   7 hrs 1 min         ██████████████████████░░░   86.92 % 
-Notes                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Terminal                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Discord                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Safari                   9 hrs 6 mins        ███████████████████████░░   91.65 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Notes                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Terminal                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Mac                      8 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -101,7 +99,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 15/06/2026 09:15:52 UTC
+ Last Updated on 16/06/2026 09:00:09 UTC
 <!--END_SECTION:waka-->
 
 ---
