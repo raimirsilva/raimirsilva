@@ -46,7 +46,7 @@ My previous professional background has contributed to developing transferable s
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,18 +75,18 @@ Sunday                   51 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 59 mins      █████████████░░░░░░░░░░░░   51.70 % 
-Markdown                 11 hrs 12 mins      ████████████░░░░░░░░░░░░░   48.30 % 
+Markdown                 13 hrs 14 mins      ███████████████░░░░░░░░░░   58.57 % 
+Other                    9 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.43 % 
 
 🔥 Editors: 
-Safari                   19 hrs 57 mins      ██████████████████████░░░   86.02 % 
-Terminal                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Notes                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-GitHubDesktop            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Safari                   19 hrs 38 mins      ██████████████████████░░░   86.93 % 
+Terminal                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Notes                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+GitHubDesktop            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      23 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -99,7 +99,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 24/06/2026 08:12:32 UTC
+ Last Updated on 25/06/2026 08:12:36 UTC
 <!--END_SECTION:waka-->
 
 ---
