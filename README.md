@@ -75,15 +75,15 @@ Sunday                   51 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 53 mins       ████████████████████████░   94.33 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 2 hrs 50 mins       ██████████████████████░░░   89.42 % 
+Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 🔥 Editors: 
-Safari                   5 hrs 53 mins       ████████████████████████░   94.33 % 
-Notes                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Safari                   2 hrs 50 mins       ██████████████████████░░░   89.42 % 
+Notes                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 💻 Operating System: 
-Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -96,7 +96,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 01/07/2026 08:29:42 UTC
+ Last Updated on 02/07/2026 08:06:54 UTC
 <!--END_SECTION:waka-->
 
 ---
