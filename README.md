@@ -75,13 +75,13 @@ Sunday                   51 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Notes                    23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -94,7 +94,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 21/07/2026 09:30:28 UTC
+ Last Updated on 22/07/2026 09:29:29 UTC
 <!--END_SECTION:waka-->
 
 ---
