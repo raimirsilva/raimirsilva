@@ -6,9 +6,11 @@
 
 ## 🎯 About me
 
-Career transition professional moving into **Data Analytics**, focusing on practical projects and applying data-driven insights to support decision-making. I develop technical competencies in **Python**, **SQL**, **Excel**, and data visualisation tools, applying this knowledge in exploratory data analysis (EDA), data cleaning and treatment, indicator analysis, and building interactive dashboards for strategic metrics monitoring.
+Data Analytics professional with completed formal training and hands-on project experience in exploratory data analysis, data cleaning and processing, interactive dashboard development, and generating data-driven insights to support business decision-making.
 
-My previous professional background has contributed to developing transferable skills essential for the data field: analytical thinking, organisation and discipline, problem-solving, attention to detail, and clear communication of technical information to diverse audiences.
+I hold consolidated technical skills in Python, Git, SQL, and data visualisation (including exposure to Tableau and Power BI), applied across real-world projects involving KPI analysis and strategic metric tracking. I also hold the CC certification from ISC², reflecting a broader interest in data security and information governance.
+
+My previous professional background has fostered essential transferable skills for the data field, including analytical thinking, meticulous attention to detail, and the ability to communicate complex technical information to diverse stakeholders.
 
 ---
 
@@ -142,9 +144,11 @@ I am interested in opportunities in Data Analytics covering the full analytical 
 
 ## 🎯 Sobre mim
 
-Profissional em transição de carreira para **Análise de Dados**, com foco em projetos práticos e aplicação de insights orientados por dados no apoio à tomada de decisões. Possuo competências técnicas em **Python**, **SQL**, **Excel** e ferramentas de visualização de dados, aplicando esses conhecimentos em análise exploratória de dados (EDA), limpeza e tratamento de bases, análise de indicadores e construção de dashboards interativos para acompanhamento de métricas estratégicas.
+Profissional com formação concluída em Data Analytics e experiência prática em projetos aplicados de análise exploratória, limpeza e tratamento de bases, construção de dashboards interativos e geração de insights orientados por dados para suporte à tomada de decisões.
 
-Minha trajetória profissional anterior consolidou habilidades transferíveis fundamentais para a área de dados: pensamento analítico, organização e disciplina, resolução de problemas, atenção a detalhes e comunicação clara de informações técnicas para diferentes públicos.
+Possuo competências técnicas consolidadas em Python, Git, SQL e ferramentas de visualização de dados (incluindo Tableau e Power BI em nível funcional), aplicadas em projetos reais de análise de indicadores e acompanhamento de métricas estratégicas. Sou também certificado em CC pela ISC², refletindo interesse em segurança de dados e governança da informação.
+
+Minha experiência profissional anterior contribuiu para o desenvolvimento de habilidades transferíveis fundamentais para a área de dados, como pensamento analítico, atenção a detalhes, resolução de problemas e comunicação clara de informações técnicas para diferentes públicos.
 
 ---
 
