@@ -48,28 +48,26 @@ My previous professional background has fostered essential transferable skills f
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%204%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-🌆 Daytime                113 commits         ██████████░░░░░░░░░░░░░░░   41.85 % 
-🌃 Evening                71 commits          ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-🌙 Night                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+🌆 Daytime                114 commits         ███████████░░░░░░░░░░░░░░   42.07 % 
+🌃 Evening                71 commits          ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+🌙 Night                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Sunday                   51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 ```
 
 
@@ -77,13 +75,22 @@ Sunday                   51 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 mins             █████████████████████████   100.00 % 
+Markdown                 1 hr 31 mins        ██████████████████░░░░░░░   72.70 % 
+Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   27.30 % 
 
 🔥 Editors: 
-Notes                    23 mins             █████████████████████████   100.00 % 
+Safari                   1 hr 33 mins        ███████████████████░░░░░░   74.33 % 
+Notes                    23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Terminal                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -96,7 +103,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 26/07/2026 09:17:55 UTC
+ Last Updated on 28/07/2026 09:38:19 UTC
 <!--END_SECTION:waka-->
 
 ---
