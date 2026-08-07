@@ -48,51 +48,7 @@ My previous professional background has fostered essential transferable skills f
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2031%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-🌆 Daytime                114 commits         ███████████░░░░░░░░░░░░░░   42.07 % 
-🌃 Evening                71 commits          ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌙 Night                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Sunday                   51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 19 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Safari                   3 hrs 19 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 **I Mostly Code in Jupyter Notebook** 
 
@@ -104,7 +60,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 06/08/2026 09:42:22 UTC
+ Last Updated on 07/08/2026 08:17:03 UTC
 <!--END_SECTION:waka-->
 
 ---
