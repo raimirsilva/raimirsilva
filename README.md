@@ -48,7 +48,7 @@ My previous professional background has fostered essential transferable skills f
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2031%20mins-blue?style=flat)
 
@@ -79,14 +79,14 @@ Sunday                   51 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 8 mins        ████████████████████████░   94.11 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Other                    2 hrs 46 mins       ███████████████████████░░   90.32 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 
 🔥 Editors: 
-Safari                   4 hrs 23 mins       █████████████████████████   100.00 % 
+Safari                   3 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 09/09/2026 12:14:02 UTC
+ Last Updated on 10/09/2026 12:08:01 UTC
 <!--END_SECTION:waka-->
 
 ---
