@@ -48,30 +48,30 @@ My previous professional background has fostered essential transferable skills f
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.01%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-🌆 Daytime                114 commits         ███████████░░░░░░░░░░░░░░   42.07 % 
-🌃 Evening                71 commits          ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌙 Night                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌞 Morning                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+🌆 Daytime                120 commits         ███████████░░░░░░░░░░░░░░   43.32 % 
+🌃 Evening                71 commits          ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+🌙 Night                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Thursday                 42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Sunday                   51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Thursday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
 ```
 
 
@@ -79,14 +79,15 @@ Sunday                   51 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 46 mins       ███████████████████████░░   90.32 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Other                    2 hrs 50 mins       ████████████████░░░░░░░░░   65.71 % 
+Markdown                 1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   34.29 % 
 
 🔥 Editors: 
-Safari                   3 hrs 4 mins        █████████████████████████   100.00 % 
+Safari                   3 hrs 55 mins       ███████████████████████░░   91.09 % 
+Terminal                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 💻 Operating System: 
-Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,14 +99,14 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         5 repos             ██████████████████░░░░░░░   71.43 % 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Jupyter Notebook         5 repos             ████████████████░░░░░░░░░   62.50 % 
+Python                   3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
 ```
 
 
 
 
- Last Updated on 10/09/2026 12:08:01 UTC
+ Last Updated on 11/09/2026 12:06:17 UTC
 <!--END_SECTION:waka-->
 
 ---
