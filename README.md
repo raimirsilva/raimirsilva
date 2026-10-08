@@ -48,7 +48,7 @@ My previous professional background has fostered essential transferable skills f
 ## 📊 Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2031%20mins-blue?style=flat)
 
@@ -105,7 +105,7 @@ Python                   3 repos             █████████░░�
 
 
 
- Last Updated on 07/10/2026 14:20:14 UTC
+ Last Updated on 08/10/2026 14:28:22 UTC
 <!--END_SECTION:waka-->
 
 ---
